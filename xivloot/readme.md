@@ -1,6 +1,6 @@
 # Program to help with FFA BIS w/ Loot Lockout system 
 
-## Here is my statics rules for this loot distro 
+## Here is my statics rules for this loot system 
 
 ### What does FFA BIS mean?
 If a BIS item drops for you, you have the ability to roll for it.
