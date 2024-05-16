@@ -1,0 +1,122 @@
+{
+    "players": [
+        {
+            "name": "Ald",
+            "locked": {
+                "TA1": false,
+                "TA2": false,
+                "TA3": false,
+                "TA4": false
+            },
+            "victories": {
+                "Boss1": 0,
+                "Boss2": 0,
+                "TA1": 0
+            }
+        },
+        {
+            "name": "Maru",
+            "locked": {
+                "TA1": false,
+                "TA2": false,
+                "TA3": false,
+                "TA4": false
+            },
+            "victories": {
+                "Boss1": 0,
+                "Boss2": 0,
+                "TA1": 0
+            }
+        },
+        {
+            "name": "Cevlic",
+            "locked": {
+                "TA1": false,
+                "TA2": false,
+                "TA3": false,
+                "TA4": false
+            },
+            "victories": {
+                "Boss1": 0,
+                "Boss2": 0,
+                "TA1": 0
+            }
+        },
+        {
+            "name": "Ari",
+            "locked": {
+                "TA1": false,
+                "TA2": false,
+                "TA3": false,
+                "TA4": false
+            },
+            "victories": {
+                "Boss1": 0,
+                "Boss2": 0,
+                "TA1": 0
+            }
+        },
+        {
+            "name": "Megami",
+            "locked": {
+                "TA1": false,
+                "TA2": false,
+                "TA3": false,
+                "TA4": false
+            },
+            "victories": {
+                "Boss1": 0,
+                "Boss2": 0,
+                "TA1": 0
+            }
+        },
+        {
+            "name": "Shammy",
+            "locked": {
+                "TA1": false,
+                "TA2": false,
+                "TA3": false,
+                "TA4": false
+            },
+            "victories": {
+                "Boss1": 0,
+                "Boss2": 0,
+                "TA1": 0
+            }
+        },
+        {
+            "name": "Yami",
+            "locked": {
+                "TA1": false,
+                "TA2": false,
+                "TA3": false,
+                "TA4": false
+            },
+            "victories": {
+                "Boss1": 0,
+                "Boss2": 0,
+                "TA1": 0
+            }
+        },
+        {
+            "name": "Kwil",
+            "locked": {
+                "TA1": false,
+                "TA2": false,
+                "TA3": false,
+                "TA4": false
+            },
+            "victories": {
+                "Boss1": 0,
+                "Boss2": 0,
+                "TA1": 0
+            }
+        }
+    ],
+    "bosses": [
+        "TA1",
+        "TA2",
+        "TA3",
+        "TA4"
+    ]
+}
